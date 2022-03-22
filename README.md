@@ -7,7 +7,7 @@ Building a **Transformer** model for language translation, apply on 4 different 
 
 ## Background
 
-In this project, I used Keras - Tensorflow library to implement the Transformer architecture, and train on 5 different data-sets. This is group work with 5 members, and I'm responsible for applying on Viet-Eng data-set and building the Flask web application.
+In this project, I used Keras - Tensorflow library to implement the Transformer architecture, and train on 5 different data-sets. This is group work with 5 members, and I'm responsible for applying on Eng-Vie data-set and building the Flask web application.
 
 The application is described as:
 * Get an input sentences of language A
