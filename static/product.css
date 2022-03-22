@@ -1,0 +1,43 @@
+
+.bottom{
+    position: fixed;
+    background-color: #3d8af7;
+    width: 100%;
+    height: 7%;
+    margin: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.bottom p{
+    text-align: center;
+    color: white;
+    margin-bottom: 0;
+}
+
+.form-group{
+  position: absolute;
+  top: 20%;
+  width: 90%;
+  height: 40%;
+  left: 5%;
+}
+
+.sourceform{
+  position: absolute;
+  top: 10%;
+  width: 90%;
+  height: 80%;
+  left: 5%;
+}
+.subbutton{
+  position:absolute;
+  top: 50%;
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 10%;
+  left: 45%;
+}
