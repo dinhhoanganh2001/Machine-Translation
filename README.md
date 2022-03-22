@@ -29,11 +29,11 @@ If you are using anaconda3, do the following:
 4. Go to `http://127.0.0.1:5000/` and test the model.
 
 ### Data-sets: 5 different data-sets from *Kaggle*.
-1. [VietNamese to English](https://www.kaggle.com/hungnm/englishvietnamese-translation)
-2. [English to Vietnamese](https://www.kaggle.com/hungnm/englishvietnamese-translation)
-3. [English to France](https://www.kaggle.com/digvijayyadav/frenchenglish)
-4. [France to English](http://www.manythings.org/anki/fra-eng.zip)
-5. [English to Italian](https://www.manythings.org/anki/ita-eng.zip)
+1. [VietNamese to English](https://www.kaggle.com/hungnm/englishvietnamese-translation) (254000 samples)
+2. [English to Vietnamese](https://www.kaggle.com/hungnm/englishvietnamese-translation) (254000 samples)
+3. [English to France](https://www.kaggle.com/digvijayyadav/frenchenglish) (177000 samples)
+4. [France to English](http://www.manythings.org/anki/fra-eng.zip) (177000 samples)
+5. [English to Italian](https://www.manythings.org/anki/ita-eng.zip) (150000 samples)
 
 ## Architecture
 <p style="text-align:center;"><img src="https://firebasestorage.googleapis.com/v0/b/mp212-ai.appspot.com/o/camera_capture%2Fpic1.png?alt=media&token=aa74484c-da71-4a7d-83d6-9e30ca177ab9" width="400" height="400"></p>
